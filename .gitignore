@@ -1,0 +1,100 @@
+# Project exclude paths
+/.gradle/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Data Class dan Collections/Collections/Maps/out/
+/Data Class dan Collections/Collections/Maps/out/production/classes/
+/Data Class dan Collections/Data Class/Copying data class objects/out/
+/Data Class dan Collections/Data Class/Copying data class objects/out/production/classes/
+/Functional/Advanced Collection Function/Drop/out/
+/Functional/Advanced Collection Function/Drop/out/production/classes/
+/Functional/Advanced Collection Function/Fold/out/
+/Functional/Advanced Collection Function/Fold/out/production/classes/
+/Functional/Advanced Collection Function/Slice/out/
+/Functional/Advanced Collection Function/Slice/out/production/classes/
+/Functional/Advanced Collection Function/Take/out/
+/Functional/Advanced Collection Function/Take/out/production/classes/
+/Functional/Extensions/Contoh 1/out/
+/Functional/Extensions/Contoh 1/out/production/classes/
+/Functional/Extensions/Contoh 2/out/
+/Functional/Extensions/Contoh 2/out/production/classes/
+/Functional/Extensions/Contoh 3/out/
+/Functional/Extensions/Contoh 3/out/production/classes/
+/Functional/Extensions/Contoh 4/out/
+/Functional/Extensions/Contoh 4/out/production/classes/
+/Functional/Function Type/Contoh 2/out/
+/Functional/Function Type/Contoh 2/out/production/classes/
+/Functional/Lambda/Contoh 3/out/
+/Functional/Lambda/Contoh 3/out/production/classes/
+/Functional/Lambda/Contoh 4/out/
+/Functional/Lambda/Contoh 4/out/production/classes/
+/Functional/Lambda/Contoh 5/out/
+/Functional/Lambda/Contoh 5/out/production/classes/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Functional/Library Helper/also/out/
+/Functional/Library Helper/also/out/production/classes/
+/Functional/Library Helper/apply/out/
+/Functional/Library Helper/apply/out/production/classes/
+/Functional/Library Helper/let/out/
+/Functional/Library Helper/let/out/production/classes/
+/Functional/Library Helper/run/out/
+/Functional/Library Helper/run/out/production/classes/
+/Functional/Library Helper/with/out/
+/Functional/Library Helper/with/out/production/classes/
+/Functional/Member References/Function References/out/
+/Functional/Member References/Function References/out/production/classes/
+/Functional/Member References/Property References/out/
+/Functional/Member References/Property References/out/production/classes/
+/Functional/Named and Default Argument/Contoh 1/out/
+/Functional/Named and Default Argument/Contoh 1/out/production/classes/
+/Functional/Named and Default Argument/Contoh 4/out/
+/Functional/Named and Default Argument/Contoh 4/out/production/classes/
+/Functional/Recursion/Recursion Initilization/out/
+/Functional/Recursion/Recursion Initilization/out/production/classes/
+/Functional/Recursion/Tail Recursion/out/
+/Functional/Recursion/Tail Recursion/out/production/classes/
+/Functional/Scope Function with Lambda Argument/also/out/
+/Functional/Scope Function with Lambda Argument/also/out/production/classes/
+/Functional/Scope Function with Lambda Argument/let/out/
+/Functional/Scope Function with Lambda Argument/let/out/production/classes/
+/Functional/Scope Function with Lambda Receiver/run/out/
+/Functional/Scope Function with Lambda Receiver/run/out/production/classes/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Boolean/Conjuction/out/
+/Kotlin Fundamental/Boolean/Conjuction/out/production/classes/
+/Kotlin Fundamental/Boolean/Disjunction/out/
+/Kotlin Fundamental/Boolean/Disjunction/out/production/classes/
+/Kotlin Fundamental/Data Type/Update Array/out/
+/Kotlin Fundamental/Data Type/Update Array/out/production/classes/
+/Kotlin Fundamental/Function/Function Initilization/out/
+/Kotlin Fundamental/Function/Function Initilization/out/production/classes/
+/Kotlin Fundamental/If Expression/If/out/
+/Kotlin Fundamental/If Expression/If/out/production/classes/
+/Kotlin Fundamental/If Expression/If Else/out/
+/Kotlin Fundamental/If Expression/If Else/out/production/classes/
+/Kotlin Fundamental/Numbers/Number with max and min values/out/
+/Kotlin Fundamental/Numbers/Number with max and min values/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/out/production/classes/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/out/
+/Membangun dan Menjalankan Program Kotlin/Program Pertama Kotlin/Hello Kotlin/out/production/classes/
+/Object-Oriented/Classes/Contoh/out/
+/Object-Oriented/Classes/Contoh/out/production/classes/
+/Object-Oriented/Exception Handling/Contoh 2/out/
+/Object-Oriented/Exception Handling/Contoh 2/out/production/classes/
+/Object-Oriented/Import dan Packages/Contoh 1/out/
+/Object-Oriented/Import dan Packages/Contoh 1/out/production/classes/
+/Object-Oriented/Import dan Packages/Contoh 3/out/
+/Object-Oriented/Import dan Packages/Contoh 3/out/production/classes/
+/Object-Oriented/Interfaces/Contoh/out/
+/Object-Oriented/Interfaces/Contoh/out/production/classes/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
+/Object-Oriented/Object Everywhere/Contoh 2/out/
+/Object-Oriented/Object Everywhere/Contoh 2/out/production/classes/
+/Object-Oriented/Overloading/Contoh/out/
+/Object-Oriented/Overloading/Contoh/out/production/classes/
+/Object-Oriented/Visibility Modifiers/internal/out/
+/Object-Oriented/Visibility Modifiers/internal/out/production/classes/

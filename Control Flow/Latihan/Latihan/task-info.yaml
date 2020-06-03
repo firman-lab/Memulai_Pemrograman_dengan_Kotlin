@@ -1,0 +1,71 @@
+type: output
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 281
+    length: 19
+    placeholder_text: if (false) continue
+    initial_state:
+      length: 19
+      offset: 281
+    initialized_from_dependency: false
+    possible_answer: if (number % 2 == 0) continue
+    selected: false
+    status: Unchecked
+  - offset: 328
+    length: 19
+    placeholder_text: if (false) continue
+    initial_state:
+      length: 19
+      offset: 328
+    initialized_from_dependency: false
+    possible_answer: if (number > 20) break
+    selected: false
+    status: Unchecked
+  - offset: 375
+    length: 13
+    placeholder_text: val result =0
+    initial_state:
+      length: 13
+      offset: 375
+    initialized_from_dependency: false
+    possible_answer: val result = number * (number + 10)
+    selected: false
+    status: Unchecked
+  text: |-
+    /**
+     * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah kode yang sudah ada.
+     * Cukup tambahkan kode berdasarkan perintah yang sudah ditentukan.
+     *
+     */
+    fun main() {
+        val listNumber = 1.rangeTo(100)
+
+        for (number in listNumber) {
+            // TODO 1
+            if (false) continue
+
+            // TODO 2
+            if (false) continue
+
+            // TODO 3
+            val result =0
+            println("range result is $result")
+        }
+    }
+  learner_created: false
+- name: test/output.txt
+  visible: false
+  text: |
+    range result is 11
+    range result is 39
+    range result is 75
+    range result is 119
+    range result is 171
+    range result is 231
+    range result is 299
+    range result is 375
+  learner_created: false
+status: Unchecked
+record: -1
